@@ -92,7 +92,7 @@
 	<img src="images/paddle4_1.png" style="width: 0px;height: 0px;" />
 	<img src="images/paddle4_2.png" style="width: 0px;height: 0px;" />
 	<!-- 背景音乐（已删除） -->
-	<!-- <audio src="http://m701.music.126.net/20230506145413/787ddfa7903e407061f8b79a375ca903/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/11140466664/30c7/b10f/e773/7b61d7b78853f27172605d9025974c8e.mp3" style="width: 0px;height: 0px;border: 0px;" id="audio" loop="-1"></audio> -->
+	<audio src="http://m701.music.126.net/20230506145413/787ddfa7903e407061f8b79a375ca903/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/11140466664/30c7/b10f/e773/7b61d7b78853f27172605d9025974c8e.mp3" style="width: 0px;height: 0px;border: 0px;" id="audio" loop="-1"></audio>
 	<script src="js/common.js?s=4"></script>
 	<script src="js/scene.js?s=4"></script>
 	<script src="js/skills.js?s=4"></script>
